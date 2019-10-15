@@ -1,5 +1,6 @@
 import java.util.Scanner;
 import java.util.Scanner;
+// Joselito Ramiro Jr.
  
 public class NumberToWordConverter {
    
